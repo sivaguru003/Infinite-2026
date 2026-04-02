@@ -1,0 +1,8 @@
+C:\Dot Net\Assingnments\C#\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Dot Net\Assingnments\C#\Assignment 2\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Dot Net\Assingnments\C#\Assignment 2\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Dot Net\Assingnments\C#\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csproj.AssemblyReference.cache
+C:\Dot Net\Assingnments\C#\Assignment 2\Assignment 2\obj\Debug\Assignment 2.csproj.CoreCompileInputs.cache
+C:\Dot Net\Assingnments\C#\Assignment 2\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Dot Net\Assingnments\C#\Assignment 2\Assignment 2\obj\Debug\Assignment 2.pdb
+C:\Dot Net\Assingnments\C#\Assignment 2\Assignment 2\obj\Debug\Assignment 2.exe.config

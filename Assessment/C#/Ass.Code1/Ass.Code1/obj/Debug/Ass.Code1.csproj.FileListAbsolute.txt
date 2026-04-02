@@ -1,0 +1,8 @@
+C:\Dot Net\Assessment\C#\Ass.Code1\Ass.Code1\bin\Debug\Ass.Code1.exe.config
+C:\Dot Net\Assessment\C#\Ass.Code1\Ass.Code1\bin\Debug\Ass.Code1.exe
+C:\Dot Net\Assessment\C#\Ass.Code1\Ass.Code1\bin\Debug\Ass.Code1.pdb
+C:\Dot Net\Assessment\C#\Ass.Code1\Ass.Code1\obj\Debug\Ass.Code1.csproj.AssemblyReference.cache
+C:\Dot Net\Assessment\C#\Ass.Code1\Ass.Code1\obj\Debug\Ass.Code1.csproj.CoreCompileInputs.cache
+C:\Dot Net\Assessment\C#\Ass.Code1\Ass.Code1\obj\Debug\Ass.Code1.exe
+C:\Dot Net\Assessment\C#\Ass.Code1\Ass.Code1\obj\Debug\Ass.Code1.pdb
+C:\Dot Net\Assessment\C#\Ass.Code1\Ass.Code1\obj\Debug\Ass.Code1.exe.config
