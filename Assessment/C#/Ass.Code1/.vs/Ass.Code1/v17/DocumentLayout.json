@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Dot Net\\Assessment\\C#\\Ass.Code1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{359BC89B-D357-463F-89A6-FDF84FB71BB6}|Ass.Code1\\Ass.Code1.csproj|C:\\Dot Net\\Assessment\\C#\\Ass.Code1\\ass.code1\\prgm1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{359BC89B-D357-463F-89A6-FDF84FB71BB6}|Ass.Code1\\Ass.Code1.csproj|c:\\dot net\\assessment\\c#\\ass.code1\\ass.code1\\prgm1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{359BC89B-D357-463F-89A6-FDF84FB71BB6}|Ass.Code1\\Ass.Code1.csproj|solutionrelative:ass.code1\\prgm1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{359BC89B-D357-463F-89A6-FDF84FB71BB6}|Ass.Code1\\Ass.Code1.csproj|solutionrelative:ass.code1\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{359BC89B-D357-463F-89A6-FDF84FB71BB6}|Ass.Code1\\Ass.Code1.csproj|c:\\dot net\\assessment\\c#\\ass.code1\\ass.code1\\prgm2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{359BC89B-D357-463F-89A6-FDF84FB71BB6}|Ass.Code1\\Ass.Code1.csproj|C:\\Dot Net\\Assessment\\C#\\Ass.Code1\\ass.code1\\prgm2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{359BC89B-D357-463F-89A6-FDF84FB71BB6}|Ass.Code1\\Ass.Code1.csproj|solutionrelative:ass.code1\\prgm2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Ass.Code1\\Prgm1.cs",
               "ToolTip": "C:\\Dot Net\\Assessment\\C#\\Ass.Code1\\Ass.Code1\\Prgm1.cs",
               "RelativeToolTip": "Ass.Code1\\Prgm1.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAowIYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowIYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T04:49:55.785Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "Ass.Code1\\Prgm2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T05:11:13.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T05:11:13.011Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Ass.Code1\\Main.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-02T05:09:26.894Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-02T05:09:26.894Z"
             }
           ]
         }
