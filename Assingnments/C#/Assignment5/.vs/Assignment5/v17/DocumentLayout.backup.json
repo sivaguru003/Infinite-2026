@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dot Net\\Assingnments\\C#\\Assignment5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2927082F-D6C9-42DA-996D-2A1FE54882A1}|Assignment5\\Assignment5.csproj|c:\\dot net\\assingnments\\c#\\assignment5\\assignment5\\prgm2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2927082F-D6C9-42DA-996D-2A1FE54882A1}|Assignment5\\Assignment5.csproj|solutionrelative:assignment5\\prgm2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2927082F-D6C9-42DA-996D-2A1FE54882A1}|Assignment5\\Assignment5.csproj|C:\\Dot Net\\Assingnments\\C#\\Assignment5\\assignment5\\prgm1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2927082F-D6C9-42DA-996D-2A1FE54882A1}|Assignment5\\Assignment5.csproj|solutionrelative:assignment5\\prgm1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2927082F-D6C9-42DA-996D-2A1FE54882A1}|Assignment5\\Assignment5.csproj|C:\\Dot Net\\Assingnments\\C#\\Assignment5\\assignment5\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2927082F-D6C9-42DA-996D-2A1FE54882A1}|Assignment5\\Assignment5.csproj|solutionrelative:assignment5\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2927082F-D6C9-42DA-996D-2A1FE54882A1}|Assignment5\\Assignment5.csproj|C:\\Dot Net\\Assingnments\\C#\\Assignment5\\assignment5\\prgm3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2927082F-D6C9-42DA-996D-2A1FE54882A1}|Assignment5\\Assignment5.csproj|solutionrelative:assignment5\\prgm3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prgm3.cs",
+              "DocumentMoniker": "C:\\Dot Net\\Assingnments\\C#\\Assignment5\\Assignment5\\Prgm3.cs",
+              "RelativeDocumentMoniker": "Assignment5\\Prgm3.cs",
+              "ToolTip": "C:\\Dot Net\\Assingnments\\C#\\Assignment5\\Assignment5\\Prgm3.cs",
+              "RelativeToolTip": "Assignment5\\Prgm3.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T13:20:52.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Prgm1.cs",
+              "DocumentMoniker": "C:\\Dot Net\\Assingnments\\C#\\Assignment5\\Assignment5\\Prgm1.cs",
+              "RelativeDocumentMoniker": "Assignment5\\Prgm1.cs",
+              "ToolTip": "C:\\Dot Net\\Assingnments\\C#\\Assignment5\\Assignment5\\Prgm1.cs",
+              "RelativeToolTip": "Assignment5\\Prgm1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T13:09:02.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Prgm2.cs",
+              "DocumentMoniker": "C:\\Dot Net\\Assingnments\\C#\\Assignment5\\Assignment5\\Prgm2.cs",
+              "RelativeDocumentMoniker": "Assignment5\\Prgm2.cs",
+              "ToolTip": "C:\\Dot Net\\Assingnments\\C#\\Assignment5\\Assignment5\\Prgm2.cs",
+              "RelativeToolTip": "Assignment5\\Prgm2.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T13:15:49.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Dot Net\\Assingnments\\C#\\Assignment5\\Assignment5\\Main.cs",
+              "RelativeDocumentMoniker": "Assignment5\\Main.cs",
+              "ToolTip": "C:\\Dot Net\\Assingnments\\C#\\Assignment5\\Assignment5\\Main.cs",
+              "RelativeToolTip": "Assignment5\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T13:07:54.542Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
