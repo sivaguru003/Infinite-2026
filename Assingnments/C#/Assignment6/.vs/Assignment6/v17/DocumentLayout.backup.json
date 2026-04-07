@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dot Net\\Assingnments\\C#\\Assignment6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B38964F-7821-43CE-A28E-CFBB0BBE3084}|Assignment6\\Assignment6.csproj|c:\\dot net\\assingnments\\c#\\assignment6\\assignment6\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B38964F-7821-43CE-A28E-CFBB0BBE3084}|Assignment6\\Assignment6.csproj|solutionrelative:assignment6\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B38964F-7821-43CE-A28E-CFBB0BBE3084}|Assignment6\\Assignment6.csproj|c:\\dot net\\assingnments\\c#\\assignment6\\assignment6\\prgm1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B38964F-7821-43CE-A28E-CFBB0BBE3084}|Assignment6\\Assignment6.csproj|solutionrelative:assignment6\\prgm1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B38964F-7821-43CE-A28E-CFBB0BBE3084}|Assignment6\\Assignment6.csproj|c:\\dot net\\assingnments\\c#\\assignment6\\assignment6\\prgm2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B38964F-7821-43CE-A28E-CFBB0BBE3084}|Assignment6\\Assignment6.csproj|solutionrelative:assignment6\\prgm2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B38964F-7821-43CE-A28E-CFBB0BBE3084}|Assignment6\\Assignment6.csproj|c:\\dot net\\assingnments\\c#\\assignment6\\assignment6\\prgm3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B38964F-7821-43CE-A28E-CFBB0BBE3084}|Assignment6\\Assignment6.csproj|solutionrelative:assignment6\\prgm3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prgm3.cs",
+              "DocumentMoniker": "C:\\Dot Net\\Assingnments\\C#\\Assignment6\\Assignment6\\Prgm3.cs",
+              "RelativeDocumentMoniker": "Assignment6\\Prgm3.cs",
+              "ToolTip": "C:\\Dot Net\\Assingnments\\C#\\Assignment6\\Assignment6\\Prgm3.cs",
+              "RelativeToolTip": "Assignment6\\Prgm3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T06:37:03.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Dot Net\\Assingnments\\C#\\Assignment6\\Assignment6\\Main.cs",
+              "RelativeDocumentMoniker": "Assignment6\\Main.cs",
+              "ToolTip": "C:\\Dot Net\\Assingnments\\C#\\Assignment6\\Assignment6\\Main.cs",
+              "RelativeToolTip": "Assignment6\\Main.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T06:33:06.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prgm2.cs",
+              "DocumentMoniker": "C:\\Dot Net\\Assingnments\\C#\\Assignment6\\Assignment6\\Prgm2.cs",
+              "RelativeDocumentMoniker": "Assignment6\\Prgm2.cs",
+              "ToolTip": "C:\\Dot Net\\Assingnments\\C#\\Assignment6\\Assignment6\\Prgm2.cs",
+              "RelativeToolTip": "Assignment6\\Prgm2.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T06:36:54.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Prgm1.cs",
+              "DocumentMoniker": "C:\\Dot Net\\Assingnments\\C#\\Assignment6\\Assignment6\\Prgm1.cs",
+              "RelativeDocumentMoniker": "Assignment6\\Prgm1.cs",
+              "ToolTip": "C:\\Dot Net\\Assingnments\\C#\\Assignment6\\Assignment6\\Prgm1.cs",
+              "RelativeToolTip": "Assignment6\\Prgm1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T06:34:29.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
