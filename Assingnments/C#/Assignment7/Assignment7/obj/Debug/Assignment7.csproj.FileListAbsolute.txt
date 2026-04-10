@@ -1,8 +1,0 @@
-C:\Dot Net\Assingnments\C#\Assignment7\Assignment7\bin\Debug\Assignment7.exe.config
-C:\Dot Net\Assingnments\C#\Assignment7\Assignment7\bin\Debug\Assignment7.exe
-C:\Dot Net\Assingnments\C#\Assignment7\Assignment7\bin\Debug\Assignment7.pdb
-C:\Dot Net\Assingnments\C#\Assignment7\Assignment7\obj\Debug\Assignment7.csproj.AssemblyReference.cache
-C:\Dot Net\Assingnments\C#\Assignment7\Assignment7\obj\Debug\Assignment7.csproj.CoreCompileInputs.cache
-C:\Dot Net\Assingnments\C#\Assignment7\Assignment7\obj\Debug\Assignment7.exe
-C:\Dot Net\Assingnments\C#\Assignment7\Assignment7\obj\Debug\Assignment7.pdb
-C:\Dot Net\Assingnments\C#\Assignment7\Assignment7\obj\Debug\Assignment7.exe.config
