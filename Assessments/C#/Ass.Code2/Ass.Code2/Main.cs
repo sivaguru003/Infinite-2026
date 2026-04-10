@@ -27,7 +27,7 @@ namespace Ass.code
         }
     }
 
-    class Prgm4
+   internal class Prgm4
     {
         public static void stu()
         {
@@ -60,10 +60,14 @@ namespace Ass.code
                 Console.WriteLine("Student Failed");
         }
 
-        static void Main()
+      public  static void Main()
         {
             stu();
             Console.ReadLine();
+            Prgm2.Prod();
+            Prgm3.chknum();
+            Prgm4.Calc();
         }
+
     }
 }

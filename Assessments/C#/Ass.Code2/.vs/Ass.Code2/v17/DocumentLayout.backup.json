@@ -3,68 +3,42 @@
   "WorkspaceRootPath": "C:\\Dot Net\\Assessments\\C#\\Ass.Code2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F66E853-C113-44A8-87DB-D9644FB72F61}|Ass.Code2\\Ass.Code2.csproj|c:\\dot net\\assessments\\c#\\ass.code2\\ass.code2\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5F66E853-C113-44A8-87DB-D9644FB72F61}|Ass.Code2\\Ass.Code2.csproj|C:\\Dot Net\\Assessments\\C#\\Ass.Code2\\ass.code2\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F66E853-C113-44A8-87DB-D9644FB72F61}|Ass.Code2\\Ass.Code2.csproj|solutionrelative:ass.code2\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F66E853-C113-44A8-87DB-D9644FB72F61}|Ass.Code2\\Ass.Code2.csproj|c:\\dot net\\assessments\\c#\\ass.code2\\ass.code2\\prgm2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F66E853-C113-44A8-87DB-D9644FB72F61}|Ass.Code2\\Ass.Code2.csproj|solutionrelative:ass.code2\\prgm2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F66E853-C113-44A8-87DB-D9644FB72F61}|Ass.Code2\\Ass.Code2.csproj|c:\\dot net\\assessments\\c#\\ass.code2\\ass.code2\\prgm4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F66E853-C113-44A8-87DB-D9644FB72F61}|Ass.Code2\\Ass.Code2.csproj|solutionrelative:ass.code2\\prgm4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F66E853-C113-44A8-87DB-D9644FB72F61}|Ass.Code2\\Ass.Code2.csproj|c:\\dot net\\assessments\\c#\\ass.code2\\ass.code2\\prgm3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5F66E853-C113-44A8-87DB-D9644FB72F61}|Ass.Code2\\Ass.Code2.csproj|C:\\Dot Net\\Assessments\\C#\\Ass.Code2\\ass.code2\\prgm3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F66E853-C113-44A8-87DB-D9644FB72F61}|Ass.Code2\\Ass.Code2.csproj|solutionrelative:ass.code2\\prgm3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F66E853-C113-44A8-87DB-D9644FB72F61}|Ass.Code2\\Ass.Code2.csproj|C:\\Dot Net\\Assessments\\C#\\Ass.Code2\\ass.code2\\prgm2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F66E853-C113-44A8-87DB-D9644FB72F61}|Ass.Code2\\Ass.Code2.csproj|solutionrelative:ass.code2\\prgm2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Prgm4.cs",
-              "DocumentMoniker": "C:\\Dot Net\\Assessments\\C#\\Ass.Code2\\Ass.Code2\\Prgm4.cs",
-              "RelativeDocumentMoniker": "Ass.Code2\\Prgm4.cs",
-              "ToolTip": "C:\\Dot Net\\Assessments\\C#\\Ass.Code2\\Ass.Code2\\Prgm4.cs",
-              "RelativeToolTip": "Ass.Code2\\Prgm4.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAqwC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T04:50:38.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Prgm3.cs",
               "DocumentMoniker": "C:\\Dot Net\\Assessments\\C#\\Ass.Code2\\Ass.Code2\\Prgm3.cs",
               "RelativeDocumentMoniker": "Ass.Code2\\Prgm3.cs",
               "ToolTip": "C:\\Dot Net\\Assessments\\C#\\Ass.Code2\\Ass.Code2\\Prgm3.cs",
               "RelativeToolTip": "Ass.Code2\\Prgm3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-08T04:42:16.139Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Prgm2.cs",
-              "DocumentMoniker": "C:\\Dot Net\\Assessments\\C#\\Ass.Code2\\Ass.Code2\\Prgm2.cs",
-              "RelativeDocumentMoniker": "Ass.Code2\\Prgm2.cs",
-              "ToolTip": "C:\\Dot Net\\Assessments\\C#\\Ass.Code2\\Ass.Code2\\Prgm2.cs",
-              "RelativeToolTip": "Ass.Code2\\Prgm2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T04:32:14.671Z",
               "EditorCaption": ""
             },
             {
@@ -73,11 +47,37 @@
               "Title": "Main.cs",
               "DocumentMoniker": "C:\\Dot Net\\Assessments\\C#\\Ass.Code2\\Ass.Code2\\Main.cs",
               "RelativeDocumentMoniker": "Ass.Code2\\Main.cs",
-              "ToolTip": "C:\\Dot Net\\Assessments\\C#\\Ass.Code2\\Ass.Code2\\Main.cs*",
-              "RelativeToolTip": "Ass.Code2\\Main.cs*",
-              "ViewState": "AgIAACQAAAAAAAAAAAAqwEQAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Dot Net\\Assessments\\C#\\Ass.Code2\\Ass.Code2\\Main.cs",
+              "RelativeToolTip": "Ass.Code2\\Main.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwEgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-08T04:29:45.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Prgm4.cs",
+              "DocumentMoniker": "C:\\Dot Net\\Assessments\\C#\\Ass.Code2\\Ass.Code2\\Prgm4.cs",
+              "RelativeDocumentMoniker": "Ass.Code2\\Prgm4.cs",
+              "ToolTip": "C:\\Dot Net\\Assessments\\C#\\Ass.Code2\\Ass.Code2\\Prgm4.cs",
+              "RelativeToolTip": "Ass.Code2\\Prgm4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:50:38.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prgm2.cs",
+              "DocumentMoniker": "C:\\Dot Net\\Assessments\\C#\\Ass.Code2\\Ass.Code2\\Prgm2.cs",
+              "RelativeDocumentMoniker": "Ass.Code2\\Prgm2.cs",
+              "ToolTip": "C:\\Dot Net\\Assessments\\C#\\Ass.Code2\\Ass.Code2\\Prgm2.cs",
+              "RelativeToolTip": "Ass.Code2\\Prgm2.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T04:32:14.671Z",
               "EditorCaption": ""
             }
           ]
