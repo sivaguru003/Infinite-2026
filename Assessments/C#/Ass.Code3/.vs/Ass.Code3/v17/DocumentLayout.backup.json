@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dot Net\\Assessments\\C#\\Ass.Code3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55244580-BD5C-4FE4-94C0-C0636945247C}|Ass.Code3\\Ass.Code3.csproj|c:\\dot net\\assessments\\c#\\ass.code3\\ass.code3\\prgm1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55244580-BD5C-4FE4-94C0-C0636945247C}|Ass.Code3\\Ass.Code3.csproj|solutionrelative:ass.code3\\prgm1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55244580-BD5C-4FE4-94C0-C0636945247C}|Ass.Code3\\Ass.Code3.csproj|c:\\dot net\\assessments\\c#\\ass.code3\\ass.code3\\prgm2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55244580-BD5C-4FE4-94C0-C0636945247C}|Ass.Code3\\Ass.Code3.csproj|solutionrelative:ass.code3\\prgm2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55244580-BD5C-4FE4-94C0-C0636945247C}|Ass.Code3\\Ass.Code3.csproj|c:\\dot net\\assessments\\c#\\ass.code3\\ass.code3\\prgm3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55244580-BD5C-4FE4-94C0-C0636945247C}|Ass.Code3\\Ass.Code3.csproj|solutionrelative:ass.code3\\prgm3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55244580-BD5C-4FE4-94C0-C0636945247C}|Ass.Code3\\Ass.Code3.csproj|c:\\dot net\\assessments\\c#\\ass.code3\\ass.code3\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55244580-BD5C-4FE4-94C0-C0636945247C}|Ass.Code3\\Ass.Code3.csproj|solutionrelative:ass.code3\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prgm3.cs",
+              "DocumentMoniker": "C:\\Dot Net\\Assessments\\C#\\Ass.Code3\\Ass.Code3\\Prgm3.cs",
+              "RelativeDocumentMoniker": "Ass.Code3\\Prgm3.cs",
+              "ToolTip": "C:\\Dot Net\\Assessments\\C#\\Ass.Code3\\Ass.Code3\\Prgm3.cs",
+              "RelativeToolTip": "Ass.Code3\\Prgm3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:53:44.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Prgm2.cs",
+              "DocumentMoniker": "C:\\Dot Net\\Assessments\\C#\\Ass.Code3\\Ass.Code3\\Prgm2.cs",
+              "RelativeDocumentMoniker": "Ass.Code3\\Prgm2.cs",
+              "ToolTip": "C:\\Dot Net\\Assessments\\C#\\Ass.Code3\\Ass.Code3\\Prgm2.cs",
+              "RelativeToolTip": "Ass.Code3\\Prgm2.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:38:38.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Prgm1.cs",
+              "DocumentMoniker": "C:\\Dot Net\\Assessments\\C#\\Ass.Code3\\Ass.Code3\\Prgm1.cs",
+              "RelativeDocumentMoniker": "Ass.Code3\\Prgm1.cs",
+              "ToolTip": "C:\\Dot Net\\Assessments\\C#\\Ass.Code3\\Ass.Code3\\Prgm1.cs",
+              "RelativeToolTip": "Ass.Code3\\Prgm1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:26:26.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Dot Net\\Assessments\\C#\\Ass.Code3\\Ass.Code3\\Main.cs",
+              "RelativeDocumentMoniker": "Ass.Code3\\Main.cs",
+              "ToolTip": "C:\\Dot Net\\Assessments\\C#\\Ass.Code3\\Ass.Code3\\Main.cs",
+              "RelativeToolTip": "Ass.Code3\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:26:00.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
