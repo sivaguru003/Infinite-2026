@@ -1,0 +1,17 @@
+C:\Dot Net Training\Assessments\C#\Ass.Code4\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+C:\Dot Net Training\Assessments\C#\Ass.Code4\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Dot Net Training\Assessments\C#\Ass.Code4\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Dot Net Training\Assessments\C#\Ass.Code4\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Dot Net Training\Assessments\C#\Ass.Code4\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Dot Net Training\Assessments\C#\Ass.Code4\UnitTestProject1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Dot Net Training\Assessments\C#\Ass.Code4\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Dot Net Training\Assessments\C#\Ass.Code4\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Dot Net Training\Assessments\C#\Ass.Code4\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Dot Net Training\Assessments\C#\Ass.Code4\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Dot Net Training\Assessments\C#\Ass.Code4\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Dot Net Training\Assessments\C#\Ass.Code4\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Dot Net Training\Assessments\C#\Ass.Code4\UnitTestProject1\obj\Debug\UnitTest.40E657F8.Up2Date
+C:\Dot Net Training\Assessments\C#\Ass.Code4\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Dot Net Training\Assessments\C#\Ass.Code4\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Dot Net Training\Assessments\C#\Ass.Code4\UnitTestProject1\bin\Debug\ClassLibrary1.dll
+C:\Dot Net Training\Assessments\C#\Ass.Code4\UnitTestProject1\bin\Debug\ClassLibrary1.pdb

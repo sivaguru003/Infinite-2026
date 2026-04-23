@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dot Net Training\\Assingnments\\C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Dot Net Training\\Assingnments\\C#\\Assingnment7\\Assingnment7\\Prgm2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assingnment7\\Assingnment7\\Prgm2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Dot Net Training\\Assingnments\\C#\\Assingnment7\\Assingnment7\\Prgm1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assingnment7\\Assingnment7\\Prgm1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Dot Net Training\\Assingnments\\C#\\Assingnment7\\Assingnment7\\Main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assingnment7\\Assingnment7\\Main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Dot Net Training\\Assingnments\\C#\\Assingnment7\\Assingnment7\\Prgm4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assingnment7\\Assingnment7\\Prgm4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Dot Net Training\\Assingnments\\C#\\Assingnment7\\Assingnment7\\Prgm3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assingnment7\\Assingnment7\\Prgm3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prgm4.cs",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assingnments\\C#\\Assingnment7\\Assingnment7\\Prgm4.cs",
+              "RelativeDocumentMoniker": "Assingnment7\\Assingnment7\\Prgm4.cs",
+              "ToolTip": "C:\\Dot Net Training\\Assingnments\\C#\\Assingnment7\\Assingnment7\\Prgm4.cs",
+              "RelativeToolTip": "Assingnment7\\Assingnment7\\Prgm4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:58:23.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Prgm3.cs",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assingnments\\C#\\Assingnment7\\Assingnment7\\Prgm3.cs",
+              "RelativeDocumentMoniker": "Assingnment7\\Assingnment7\\Prgm3.cs",
+              "ToolTip": "C:\\Dot Net Training\\Assingnments\\C#\\Assingnment7\\Assingnment7\\Prgm3.cs",
+              "RelativeToolTip": "Assingnment7\\Assingnment7\\Prgm3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:58:22.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Prgm2.cs",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assingnments\\C#\\Assingnment7\\Assingnment7\\Prgm2.cs",
+              "RelativeDocumentMoniker": "Assingnment7\\Assingnment7\\Prgm2.cs",
+              "ToolTip": "C:\\Dot Net Training\\Assingnments\\C#\\Assingnment7\\Assingnment7\\Prgm2.cs",
+              "RelativeToolTip": "Assingnment7\\Assingnment7\\Prgm2.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:58:22.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assingnments\\C#\\Assingnment7\\Assingnment7\\Main.cs",
+              "RelativeDocumentMoniker": "Assingnment7\\Assingnment7\\Main.cs",
+              "ToolTip": "C:\\Dot Net Training\\Assingnments\\C#\\Assingnment7\\Assingnment7\\Main.cs",
+              "RelativeToolTip": "Assingnment7\\Assingnment7\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:58:22.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Prgm1.cs",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assingnments\\C#\\Assingnment7\\Assingnment7\\Prgm1.cs",
+              "RelativeDocumentMoniker": "Assingnment7\\Assingnment7\\Prgm1.cs",
+              "ToolTip": "C:\\Dot Net Training\\Assingnments\\C#\\Assingnment7\\Assingnment7\\Prgm1.cs",
+              "RelativeToolTip": "Assingnment7\\Assingnment7\\Prgm1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:57:47.548Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

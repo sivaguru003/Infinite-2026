@@ -1,0 +1,8 @@
+C:\Dot Net Training\Assessments\C#\Ass.Code4\Ass.Code4\bin\Debug\Ass.Code4.exe.config
+C:\Dot Net Training\Assessments\C#\Ass.Code4\Ass.Code4\bin\Debug\Ass.Code4.exe
+C:\Dot Net Training\Assessments\C#\Ass.Code4\Ass.Code4\bin\Debug\Ass.Code4.pdb
+C:\Dot Net Training\Assessments\C#\Ass.Code4\Ass.Code4\obj\Debug\Ass.Code4.csproj.AssemblyReference.cache
+C:\Dot Net Training\Assessments\C#\Ass.Code4\Ass.Code4\obj\Debug\Ass.Code4.csproj.CoreCompileInputs.cache
+C:\Dot Net Training\Assessments\C#\Ass.Code4\Ass.Code4\obj\Debug\Ass.Code4.exe
+C:\Dot Net Training\Assessments\C#\Ass.Code4\Ass.Code4\obj\Debug\Ass.Code4.pdb
+C:\Dot Net Training\Assessments\C#\Ass.Code4\Ass.Code4\obj\Debug\Ass.Code4.exe.config

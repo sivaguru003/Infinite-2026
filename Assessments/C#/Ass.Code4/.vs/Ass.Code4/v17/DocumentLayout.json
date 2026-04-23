@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dot Net Training\\Assessments\\C#\\Ass.Code4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E1DA1E-FD9D-4EB3-8527-6A61444CE60A}|TestProject1\\TestProject1.csproj|c:\\dot net training\\assessments\\c#\\ass.code4\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E1DA1E-FD9D-4EB3-8527-6A61444CE60A}|TestProject1\\TestProject1.csproj|solutionrelative:testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09344219-84FF-4D56-A268-673400BD182B}|ClassLibrary1\\ClassLibrary1.csproj|c:\\dot net training\\assessments\\c#\\ass.code4\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09344219-84FF-4D56-A268-673400BD182B}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C94974-5E97-46BA-B4DC-FA053FE64965}|Ass.Code4\\Ass.Code4.csproj|c:\\dot net training\\assessments\\c#\\ass.code4\\ass.code4\\2nd qust\\concrete\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C94974-5E97-46BA-B4DC-FA053FE64965}|Ass.Code4\\Ass.Code4.csproj|solutionrelative:ass.code4\\2nd qust\\concrete\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C94974-5E97-46BA-B4DC-FA053FE64965}|Ass.Code4\\Ass.Code4.csproj|c:\\dot net training\\assessments\\c#\\ass.code4\\ass.code4\\2nd qust\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C94974-5E97-46BA-B4DC-FA053FE64965}|Ass.Code4\\Ass.Code4.csproj|solutionrelative:ass.code4\\2nd qust\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C94974-5E97-46BA-B4DC-FA053FE64965}|Ass.Code4\\Ass.Code4.csproj|c:\\dot net training\\assessments\\c#\\ass.code4\\ass.code4\\2nd qust\\concrete\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C94974-5E97-46BA-B4DC-FA053FE64965}|Ass.Code4\\Ass.Code4.csproj|solutionrelative:ass.code4\\2nd qust\\concrete\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C94974-5E97-46BA-B4DC-FA053FE64965}|Ass.Code4\\Ass.Code4.csproj|c:\\dot net training\\assessments\\c#\\ass.code4\\ass.code4\\2nd qust\\interface\\ireportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C94974-5E97-46BA-B4DC-FA053FE64965}|Ass.Code4\\Ass.Code4.csproj|solutionrelative:ass.code4\\2nd qust\\interface\\ireportgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C94974-5E97-46BA-B4DC-FA053FE64965}|Ass.Code4\\Ass.Code4.csproj|c:\\dot net training\\assessments\\c#\\ass.code4\\ass.code4\\prgm3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C94974-5E97-46BA-B4DC-FA053FE64965}|Ass.Code4\\Ass.Code4.csproj|solutionrelative:ass.code4\\prgm3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C94974-5E97-46BA-B4DC-FA053FE64965}|Ass.Code4\\Ass.Code4.csproj|c:\\dot net training\\assessments\\c#\\ass.code4\\ass.code4\\2nd qust\\factories\\summaryreportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C94974-5E97-46BA-B4DC-FA053FE64965}|Ass.Code4\\Ass.Code4.csproj|solutionrelative:ass.code4\\2nd qust\\factories\\summaryreportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C94974-5E97-46BA-B4DC-FA053FE64965}|Ass.Code4\\Ass.Code4.csproj|c:\\dot net training\\assessments\\c#\\ass.code4\\ass.code4\\2nd qust\\factories\\tabularreportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C94974-5E97-46BA-B4DC-FA053FE64965}|Ass.Code4\\Ass.Code4.csproj|solutionrelative:ass.code4\\2nd qust\\factories\\tabularreportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C94974-5E97-46BA-B4DC-FA053FE64965}|Ass.Code4\\Ass.Code4.csproj|c:\\dot net training\\assessments\\c#\\ass.code4\\ass.code4\\2nd qust\\factories\\chartreportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C94974-5E97-46BA-B4DC-FA053FE64965}|Ass.Code4\\Ass.Code4.csproj|solutionrelative:ass.code4\\2nd qust\\factories\\chartreportfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C94974-5E97-46BA-B4DC-FA053FE64965}|Ass.Code4\\Ass.Code4.csproj|c:\\dot net training\\assessments\\c#\\ass.code4\\ass.code4\\2nd qust\\abstract\\abstractclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C94974-5E97-46BA-B4DC-FA053FE64965}|Ass.Code4\\Ass.Code4.csproj|solutionrelative:ass.code4\\2nd qust\\abstract\\abstractclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81C94974-5E97-46BA-B4DC-FA053FE64965}|Ass.Code4\\Ass.Code4.csproj|c:\\dot net training\\assessments\\c#\\ass.code4\\ass.code4\\2nd qust\\concrete\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81C94974-5E97-46BA-B4DC-FA053FE64965}|Ass.Code4\\Ass.Code4.csproj|solutionrelative:ass.code4\\2nd qust\\concrete\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\C#\\Ass.Code4\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\C#\\Ass.Code4\\ClassLibrary1\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T06:40:37.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\C#\\Ass.Code4\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\C#\\Ass.Code4\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T06:37:48.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\C#\\Ass.Code4\\Ass.Code4\\2nd qust\\Main.cs",
+              "RelativeDocumentMoniker": "Ass.Code4\\2nd qust\\Main.cs",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\C#\\Ass.Code4\\Ass.Code4\\2nd qust\\Main.cs",
+              "RelativeToolTip": "Ass.Code4\\2nd qust\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T06:17:06.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SummaryReportFactory.cs",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\C#\\Ass.Code4\\Ass.Code4\\2nd qust\\Factories\\SummaryReportFactory.cs",
+              "RelativeDocumentMoniker": "Ass.Code4\\2nd qust\\Factories\\SummaryReportFactory.cs",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\C#\\Ass.Code4\\Ass.Code4\\2nd qust\\Factories\\SummaryReportFactory.cs",
+              "RelativeToolTip": "Ass.Code4\\2nd qust\\Factories\\SummaryReportFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T06:08:52.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TabularReportFactory.cs",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\C#\\Ass.Code4\\Ass.Code4\\2nd qust\\Factories\\TabularReportFactory.cs",
+              "RelativeDocumentMoniker": "Ass.Code4\\2nd qust\\Factories\\TabularReportFactory.cs",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\C#\\Ass.Code4\\Ass.Code4\\2nd qust\\Factories\\TabularReportFactory.cs",
+              "RelativeToolTip": "Ass.Code4\\2nd qust\\Factories\\TabularReportFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T06:08:33.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChartReportFactory.cs",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\C#\\Ass.Code4\\Ass.Code4\\2nd qust\\Factories\\ChartReportFactory.cs",
+              "RelativeDocumentMoniker": "Ass.Code4\\2nd qust\\Factories\\ChartReportFactory.cs",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\C#\\Ass.Code4\\Ass.Code4\\2nd qust\\Factories\\ChartReportFactory.cs",
+              "RelativeToolTip": "Ass.Code4\\2nd qust\\Factories\\ChartReportFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T06:08:17.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Abstractclass.cs",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\C#\\Ass.Code4\\Ass.Code4\\2nd qust\\Abstract\\Abstractclass.cs",
+              "RelativeDocumentMoniker": "Ass.Code4\\2nd qust\\Abstract\\Abstractclass.cs",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\C#\\Ass.Code4\\Ass.Code4\\2nd qust\\Abstract\\Abstractclass.cs",
+              "RelativeToolTip": "Ass.Code4\\2nd qust\\Abstract\\Abstractclass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:50:31.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\C#\\Ass.Code4\\Ass.Code4\\2nd qust\\Concrete\\Class3.cs",
+              "RelativeDocumentMoniker": "Ass.Code4\\2nd qust\\Concrete\\Class3.cs",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\C#\\Ass.Code4\\Ass.Code4\\2nd qust\\Concrete\\Class3.cs",
+              "RelativeToolTip": "Ass.Code4\\2nd qust\\Concrete\\Class3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:46:17.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\C#\\Ass.Code4\\Ass.Code4\\2nd qust\\Concrete\\Class2.cs",
+              "RelativeDocumentMoniker": "Ass.Code4\\2nd qust\\Concrete\\Class2.cs",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\C#\\Ass.Code4\\Ass.Code4\\2nd qust\\Concrete\\Class2.cs",
+              "RelativeToolTip": "Ass.Code4\\2nd qust\\Concrete\\Class2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:46:11.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\C#\\Ass.Code4\\Ass.Code4\\2nd qust\\Concrete\\Class1.cs",
+              "RelativeDocumentMoniker": "Ass.Code4\\2nd qust\\Concrete\\Class1.cs",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\C#\\Ass.Code4\\Ass.Code4\\2nd qust\\Concrete\\Class1.cs",
+              "RelativeToolTip": "Ass.Code4\\2nd qust\\Concrete\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:46:00.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IReportGenerator.cs",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\C#\\Ass.Code4\\Ass.Code4\\2nd qust\\interface\\IReportGenerator.cs",
+              "RelativeDocumentMoniker": "Ass.Code4\\2nd qust\\interface\\IReportGenerator.cs",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\C#\\Ass.Code4\\Ass.Code4\\2nd qust\\interface\\IReportGenerator.cs",
+              "RelativeToolTip": "Ass.Code4\\2nd qust\\interface\\IReportGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:40:46.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Prgm3.cs",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\C#\\Ass.Code4\\Ass.Code4\\Prgm3.cs",
+              "RelativeDocumentMoniker": "Ass.Code4\\Prgm3.cs",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\C#\\Ass.Code4\\Ass.Code4\\Prgm3.cs",
+              "RelativeToolTip": "Ass.Code4\\Prgm3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T05:06:09.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
