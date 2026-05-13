@@ -1,0 +1,16 @@
+C:\Dot Net Training\Assessments\C#\ADO Ass1\ADO Ass.code1\ADO Ass.code1\bin\Debug\ADO Ass.code1.exe.config
+C:\Dot Net Training\Assessments\C#\ADO Ass1\ADO Ass.code1\ADO Ass.code1\bin\Debug\ADO Ass.code1.exe
+C:\Dot Net Training\Assessments\C#\ADO Ass1\ADO Ass.code1\ADO Ass.code1\bin\Debug\ADO Ass.code1.pdb
+C:\Dot Net Training\Assessments\C#\ADO Ass1\ADO Ass.code1\ADO Ass.code1\obj\Debug\ADO Ass.code1.csproj.AssemblyReference.cache
+C:\Dot Net Training\Assessments\C#\ADO Ass1\ADO Ass.code1\ADO Ass.code1\obj\Debug\ADO Ass.code1.csproj.CoreCompileInputs.cache
+C:\Dot Net Training\Assessments\C#\ADO Ass1\ADO Ass.code1\ADO Ass.code1\obj\Debug\ADO Ass.code1.exe
+C:\Dot Net Training\Assessments\C#\ADO Ass1\ADO Ass.code1\ADO Ass.code1\obj\Debug\ADO Ass.code1.pdb
+C:\Dot Net Training\Assessments\C#\ADO Ass1\ADO Ass.code1\ADO Ass.code1\obj\Debug\ADO Ass.code1.exe.config
+C:\Dot Net Training\Assessments\ADO\ADO Ass.code1\ADO Ass.code1\bin\Debug\ADO Ass.code1.exe.config
+C:\Dot Net Training\Assessments\ADO\ADO Ass.code1\ADO Ass.code1\bin\Debug\ADO Ass.code1.exe
+C:\Dot Net Training\Assessments\ADO\ADO Ass.code1\ADO Ass.code1\bin\Debug\ADO Ass.code1.pdb
+C:\Dot Net Training\Assessments\ADO\ADO Ass.code1\ADO Ass.code1\obj\Debug\ADO Ass.code1.csproj.AssemblyReference.cache
+C:\Dot Net Training\Assessments\ADO\ADO Ass.code1\ADO Ass.code1\obj\Debug\ADO Ass.code1.exe.config
+C:\Dot Net Training\Assessments\ADO\ADO Ass.code1\ADO Ass.code1\obj\Debug\ADO Ass.code1.csproj.CoreCompileInputs.cache
+C:\Dot Net Training\Assessments\ADO\ADO Ass.code1\ADO Ass.code1\obj\Debug\ADO Ass.code1.exe
+C:\Dot Net Training\Assessments\ADO\ADO Ass.code1\ADO Ass.code1\obj\Debug\ADO Ass.code1.pdb

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dot Net Training\\Assessments\\ADO\\ADO Ass.code1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0C61CE-D05F-4C7C-9D33-8BEE31B728C8}|ADOcode2\\ADOcode2.csproj|c:\\dot net training\\assessments\\ado\\ado ass.code1\\adocode2\\adocode2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0C61CE-D05F-4C7C-9D33-8BEE31B728C8}|ADOcode2\\ADOcode2.csproj|solutionrelative:adocode2\\adocode2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894AA806-9D6F-43DC-B781-D9790B3DA1AC}|ADO Ass.code1\\ADO Ass.code1.csproj|c:\\dot net training\\assessments\\ado\\ado ass.code1\\ado ass.code1\\adocode1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894AA806-9D6F-43DC-B781-D9790B3DA1AC}|ADO Ass.code1\\ADO Ass.code1.csproj|solutionrelative:ado ass.code1\\adocode1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 129,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ADOcode2.cs",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\ADO\\ADO Ass.code1\\ADOcode2\\ADOcode2.cs",
+              "RelativeDocumentMoniker": "ADOcode2\\ADOcode2.cs",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\ADO\\ADO Ass.code1\\ADOcode2\\ADOcode2.cs",
+              "RelativeToolTip": "ADOcode2\\ADOcode2.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T05:55:59.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ADOcode1.cs",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\ADO\\ADO Ass.code1\\ADO Ass.code1\\ADOcode1.cs",
+              "RelativeDocumentMoniker": "ADO Ass.code1\\ADOcode1.cs",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\ADO\\ADO Ass.code1\\ADO Ass.code1\\ADOcode1.cs",
+              "RelativeToolTip": "ADO Ass.code1\\ADOcode1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T04:35:32.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

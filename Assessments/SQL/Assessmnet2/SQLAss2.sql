@@ -19,7 +19,7 @@ insert into emp values
 insert into emp values
 (8103, 'vamsi', 'manager', 7839, getdate(), 3500, null, 10);
   --4b.Update the second row sal with 15% increment  
-update emp set sal = sal * 1.15 where empno = 8102; save transaction sp1;
+update emp set sal = sal * 1.15 where empno = 8101; save transaction sp1;
   --4c.Delete first row.
 delete from emp where empno = 8101;
 rollback transaction sp1;
@@ -60,5 +60,5 @@ update emp set sal = sal + 500 where deptno = (select deptno from dept where dna
 end;
 --to display
 exec updatesalessalary;
-select e.empno, e.ename, e.sal, d.dname from emp e join dept d on e.deptno = d.deptno where d.dname = 'sales';
+select e.empno,e.ename,e.sal,d.dname from emp e join dept d on e.deptno=d.deptno where d.dname='sales';
  
