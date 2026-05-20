@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dot Net Training\\Assessments\\Web Technology\\Ass.code1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90614F50-521E-4C03-8B09-7080E39F7EEC}|Ass.code1\\Ass.code1.csproj|c:\\dot net training\\assessments\\web technology\\ass.code1\\ass.code1\\asscode1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90614F50-521E-4C03-8B09-7080E39F7EEC}|Ass.code1\\Ass.code1.csproj|solutionrelative:ass.code1\\asscode1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90614F50-521E-4C03-8B09-7080E39F7EEC}|Ass.code1\\Ass.code1.csproj|c:\\dot net training\\assessments\\web technology\\ass.code1\\ass.code1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90614F50-521E-4C03-8B09-7080E39F7EEC}|Ass.code1\\Ass.code1.csproj|solutionrelative:ass.code1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 145,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Asscode1.html",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\Web Technology\\Ass.code1\\Ass.code1\\Asscode1.html",
+              "RelativeDocumentMoniker": "Ass.code1\\Asscode1.html",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\Web Technology\\Ass.code1\\Ass.code1\\Asscode1.html",
+              "RelativeToolTip": "Ass.code1\\Asscode1.html",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAowI8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-05-20T06:56:22.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\Web Technology\\Ass.code1\\Ass.code1\\Program.cs",
+              "RelativeDocumentMoniker": "Ass.code1\\Program.cs",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\Web Technology\\Ass.code1\\Ass.code1\\Program.cs",
+              "RelativeToolTip": "Ass.code1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T06:51:44.172Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

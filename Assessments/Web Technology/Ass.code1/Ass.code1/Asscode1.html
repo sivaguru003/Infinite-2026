@@ -1,0 +1,144 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>ASSESEN</title>
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <style>
+        table, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            padding: 5px;
+        }
+
+        .color {
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+
+    <h4>1. Multiply and Divide</h4>
+    <input type="number" id="num1" placeholder="First Number">
+    <input type="number" id="num2" placeholder="Second Number">
+
+    <button onclick="multiply()">Multiply</button>
+    <button onclick="divide()">Divide</button>
+    <p>The Answer is :<span id="ans"></span></p>
+
+    <script>
+        function multiply() {
+            var a = document.getElementById("num1").value;
+            var b = document.getElementById("num2").value;
+
+            document.getElementById("ans").innerHTML = a * b;
+        }
+        function divide() {
+            var a = document.getElementById("num1").value;
+            var b = document.getElementById("num2").value;
+            document.getElementById("ans").innerHTML = a / b;
+        }
+    </script>
+    <hr />
+
+    <script>
+        for (var i = 0; i <= 15; i++) {
+            if (i % 2 === 0) {
+                document.write(i + " is even<br>");
+            } else {
+                document.write(i + " is odd<br>");
+            }
+        }
+    </script>
+    <hr />
+    <button id="btn">Click</button>
+    <script>
+        document.getElementById("btn").onclick = function () {
+            alert("Button id Clicked");
+        };
+    </script>
+    <hr />
+
+
+  
+    <h4>Hide Odd Rows</h4>
+
+    <table>
+        <tr><td>Row 1</td></tr>
+        <tr><td>Row 2</td></tr>
+        <tr><td>Row 3</td></tr>
+        <tr><td>Row 4</td></tr>
+    </table>
+
+    <script>
+        $("tr:odd").hide();
+    </script>
+
+    <hr>
+
+  
+    <h4>Background Color</h4>
+
+    <div>
+        <h1>Heading 1</h1>
+        <h1>Heading 2</h1>
+    </div>
+
+    <script>
+        $("div > h1").addClass("color");
+    </script>
+
+    <hr>
+
+   
+    <h4>Get First List Item</h4>
+
+    <ul>
+        <li>C#</li>
+        <li>SQL</li>
+        <li>ADO</li>
+    </ul>
+
+    <script>
+        var text = $("li").first().text();
+
+        console.log(text);
+    </script>
+
+    <hr>
+    <h4>7. Add Index Number</h4>
+
+    <ul id="mylist">
+        <li>C#</li>
+        <li>SQL</li>
+        <li>ADO</li>
+    </ul>
+
+    <script>
+        $("#mylist li").each(function (index) {
+
+            $(this).prepend(index + " ");
+
+        });
+    </script>
+
+    <hr>
+
+    <h4>Input Change</h4>
+
+    <input type="text" id="txt">
+
+    <script>
+        $("#txt").change(function () {
+
+            $("body").append("<p>TextChanged</p>");
+
+        });
+    </script>
+
+
+</body>
+</html>
