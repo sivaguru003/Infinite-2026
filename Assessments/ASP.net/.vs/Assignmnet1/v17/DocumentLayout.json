@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dot Net Training\\Assessments\\ASP.net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{305855EE-F0FC-4CE6-AB71-953BB7506548}|ASP.net\\Food Order Mng.csproj|c:\\dot net training\\assessments\\asp.net\\asp.net\\menulist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{305855EE-F0FC-4CE6-AB71-953BB7506548}|ASP.net\\Food Order Mng.csproj|solutionrelative:asp.net\\menulist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305855EE-F0FC-4CE6-AB71-953BB7506548}|ASP.net\\Food Order Mng.csproj|c:\\dot net training\\assessments\\asp.net\\asp.net\\menudetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305855EE-F0FC-4CE6-AB71-953BB7506548}|ASP.net\\Food Order Mng.csproj|solutionrelative:asp.net\\menudetails.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305855EE-F0FC-4CE6-AB71-953BB7506548}|ASP.net\\Food Order Mng.csproj|c:\\dot net training\\assessments\\asp.net\\asp.net\\editmenu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{305855EE-F0FC-4CE6-AB71-953BB7506548}|ASP.net\\Food Order Mng.csproj|solutionrelative:asp.net\\editmenu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305855EE-F0FC-4CE6-AB71-953BB7506548}|ASP.net\\Food Order Mng.csproj|c:\\dot net training\\assessments\\asp.net\\asp.net\\editmenu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305855EE-F0FC-4CE6-AB71-953BB7506548}|ASP.net\\Food Order Mng.csproj|solutionrelative:asp.net\\editmenu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305855EE-F0FC-4CE6-AB71-953BB7506548}|ASP.net\\Food Order Mng.csproj|c:\\dot net training\\assessments\\asp.net\\asp.net\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305855EE-F0FC-4CE6-AB71-953BB7506548}|ASP.net\\Food Order Mng.csproj|solutionrelative:asp.net\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305855EE-F0FC-4CE6-AB71-953BB7506548}|ASP.net\\Food Order Mng.csproj|c:\\dot net training\\assessments\\asp.net\\asp.net\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305855EE-F0FC-4CE6-AB71-953BB7506548}|ASP.net\\Food Order Mng.csproj|solutionrelative:asp.net\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305855EE-F0FC-4CE6-AB71-953BB7506548}|ASP.net\\Food Order Mng.csproj|c:\\dot net training\\assessments\\asp.net\\asp.net\\menudetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{305855EE-F0FC-4CE6-AB71-953BB7506548}|ASP.net\\Food Order Mng.csproj|solutionrelative:asp.net\\menudetails.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305855EE-F0FC-4CE6-AB71-953BB7506548}|ASP.net\\Food Order Mng.csproj|c:\\dot net training\\assessments\\asp.net\\asp.net\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{305855EE-F0FC-4CE6-AB71-953BB7506548}|ASP.net\\Food Order Mng.csproj|solutionrelative:asp.net\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305855EE-F0FC-4CE6-AB71-953BB7506548}|ASP.net\\Food Order Mng.csproj|c:\\dot net training\\assessments\\asp.net\\asp.net\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{305855EE-F0FC-4CE6-AB71-953BB7506548}|ASP.net\\Food Order Mng.csproj|solutionrelative:asp.net\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305855EE-F0FC-4CE6-AB71-953BB7506548}|ASP.net\\Food Order Mng.csproj|c:\\dot net training\\assessments\\asp.net\\asp.net\\global.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{305855EE-F0FC-4CE6-AB71-953BB7506548}|ASP.net\\Food Order Mng.csproj|solutionrelative:asp.net\\global.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305855EE-F0FC-4CE6-AB71-953BB7506548}|ASP.net\\FoodOrderManagement.csproj|c:\\dot net training\\assessments\\asp.net\\asp.net\\site.master||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{305855EE-F0FC-4CE6-AB71-953BB7506548}|ASP.net\\FoodOrderManagement.csproj|solutionrelative:asp.net\\site.master||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305855EE-F0FC-4CE6-AB71-953BB7506548}|ASP.net\\Food Order Mng.csproj|c:\\dot net training\\assessments\\asp.net\\asp.net\\orderstats.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{305855EE-F0FC-4CE6-AB71-953BB7506548}|ASP.net\\Food Order Mng.csproj|solutionrelative:asp.net\\orderstats.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305855EE-F0FC-4CE6-AB71-953BB7506548}|ASP.net\\Food Order Mng.csproj|c:\\dot net training\\assessments\\asp.net\\asp.net\\orderstats.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305855EE-F0FC-4CE6-AB71-953BB7506548}|ASP.net\\Food Order Mng.csproj|solutionrelative:asp.net\\orderstats.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305855EE-F0FC-4CE6-AB71-953BB7506548}|ASP.net\\Food Order Mng.csproj|c:\\dot net training\\assessments\\asp.net\\asp.net\\menulist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{305855EE-F0FC-4CE6-AB71-953BB7506548}|ASP.net\\Food Order Mng.csproj|solutionrelative:asp.net\\menulist.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{305855EE-F0FC-4CE6-AB71-953BB7506548}|ASP.net\\FoodOrderManagement.csproj|c:\\dot net training\\assessments\\asp.net\\asp.net\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{305855EE-F0FC-4CE6-AB71-953BB7506548}|ASP.net\\FoodOrderManagement.csproj|solutionrelative:asp.net\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 179,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\ASP.net\\ASP.net\\Web.config",
+              "RelativeDocumentMoniker": "ASP.net\\Web.config",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\ASP.net\\ASP.net\\Web.config",
+              "RelativeToolTip": "ASP.net\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-27T05:34:23.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Orderstats.aspx.cs",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\ASP.net\\ASP.net\\Orderstats.aspx.cs",
+              "RelativeDocumentMoniker": "ASP.net\\Orderstats.aspx.cs",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\ASP.net\\ASP.net\\Orderstats.aspx.cs",
+              "RelativeToolTip": "ASP.net\\Orderstats.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:08:00.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Global.aspx",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\ASP.net\\ASP.net\\Global.aspx",
+              "RelativeDocumentMoniker": "ASP.net\\Global.aspx",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\ASP.net\\ASP.net\\Global.aspx",
+              "RelativeToolTip": "ASP.net\\Global.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T05:09:03.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logout.aspx.cs",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\ASP.net\\ASP.net\\Logout.aspx.cs",
+              "RelativeDocumentMoniker": "ASP.net\\Logout.aspx.cs",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\ASP.net\\ASP.net\\Logout.aspx.cs",
+              "RelativeToolTip": "ASP.net\\Logout.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:08:43.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Logout.aspx",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\ASP.net\\ASP.net\\Logout.aspx",
+              "RelativeDocumentMoniker": "ASP.net\\Logout.aspx",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\ASP.net\\ASP.net\\Logout.aspx",
+              "RelativeToolTip": "ASP.net\\Logout.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T05:08:21.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Orderstats.aspx",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\ASP.net\\ASP.net\\Orderstats.aspx",
+              "RelativeDocumentMoniker": "ASP.net\\Orderstats.aspx",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\ASP.net\\ASP.net\\Orderstats.aspx",
+              "RelativeToolTip": "ASP.net\\Orderstats.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T05:07:33.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menudetails.aspx.cs",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\ASP.net\\ASP.net\\Menudetails.aspx.cs",
+              "RelativeDocumentMoniker": "ASP.net\\Menudetails.aspx.cs",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\ASP.net\\ASP.net\\Menudetails.aspx.cs",
+              "RelativeToolTip": "ASP.net\\Menudetails.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:06:41.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menudetails.aspx",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\ASP.net\\ASP.net\\Menudetails.aspx",
+              "RelativeDocumentMoniker": "ASP.net\\Menudetails.aspx",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\ASP.net\\ASP.net\\Menudetails.aspx",
+              "RelativeToolTip": "ASP.net\\Menudetails.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T05:06:22.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Editmenu.aspx.cs",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\ASP.net\\ASP.net\\Editmenu.aspx.cs",
+              "RelativeDocumentMoniker": "ASP.net\\Editmenu.aspx.cs",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\ASP.net\\ASP.net\\Editmenu.aspx.cs",
+              "RelativeToolTip": "ASP.net\\Editmenu.aspx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:05:53.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Editmenu.aspx",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\ASP.net\\ASP.net\\Editmenu.aspx",
+              "RelativeDocumentMoniker": "ASP.net\\Editmenu.aspx",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\ASP.net\\ASP.net\\Editmenu.aspx",
+              "RelativeToolTip": "ASP.net\\Editmenu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T05:05:14.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Menulist.aspx.cs",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\ASP.net\\ASP.net\\Menulist.aspx.cs",
+              "RelativeDocumentMoniker": "ASP.net\\Menulist.aspx.cs",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\ASP.net\\ASP.net\\Menulist.aspx.cs",
+              "RelativeToolTip": "ASP.net\\Menulist.aspx.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:04:39.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menulist.aspx",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\ASP.net\\ASP.net\\Menulist.aspx",
+              "RelativeDocumentMoniker": "ASP.net\\Menulist.aspx",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\ASP.net\\ASP.net\\Menulist.aspx",
+              "RelativeToolTip": "ASP.net\\Menulist.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T05:04:22.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\ASP.net\\ASP.net\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "ASP.net\\Login.aspx.cs",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\ASP.net\\ASP.net\\Login.aspx.cs",
+              "RelativeToolTip": "ASP.net\\Login.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T05:02:31.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\ASP.net\\ASP.net\\Login.aspx",
+              "RelativeDocumentMoniker": "ASP.net\\Login.aspx",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\ASP.net\\ASP.net\\Login.aspx",
+              "RelativeToolTip": "ASP.net\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T05:02:13.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\ASP.net\\ASP.net\\Site.Master",
+              "RelativeDocumentMoniker": "ASP.net\\Site.Master",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\ASP.net\\ASP.net\\Site.Master",
+              "RelativeToolTip": "ASP.net\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-05-27T04:58:53.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

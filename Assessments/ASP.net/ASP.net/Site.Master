@@ -1,0 +1,47 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true"
+    CodeBehind="Site.Master.cs"
+    Inherits="FoodOrderManagement.Site.Master" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Food Order System</title>
+</head>
+
+<body>
+
+<form id="form1" runat="server">
+
+    <h2>Food Order System</h2>
+
+    <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal">
+
+        <Items>
+
+            <asp:MenuItem Text="Menu Items"
+                NavigateUrl="~/MenuList.aspx" />
+
+            <asp:MenuItem Text="Add Menu"
+                NavigateUrl="~/EditMenu.aspx" />
+
+            <asp:MenuItem Text="Order Stats"
+                NavigateUrl="~/OrderStats.aspx" />
+
+            <asp:MenuItem Text="Logout"
+                NavigateUrl="~/Logout.aspx" />
+
+        </Items>
+
+    </asp:Menu>
+
+    <hr />
+
+    <asp:ContentPlaceHolder ID="MainContent"
+        runat="server">
+    </asp:ContentPlaceHolder>
+
+</form>
+
+</body>
+</html>

@@ -3,47 +3,81 @@
   "WorkspaceRootPath": "C:\\Dot Net Training\\Assingnments\\ASP.NET Web forms\\Assignment1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F1A2F39-529F-4550-A576-653D460E3B57}|Assignment1\\Assignment1.csproj|c:\\dot net training\\assingnments\\asp.net web forms\\assignment1\\assignment1\\validator.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{7F1A2F39-529F-4550-A576-653D460E3B57}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\validator.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{7F1A2F39-529F-4550-A576-653D460E3B57}|Assignment1\\Assignment1.csproj|c:\\dot net training\\assingnments\\asp.net web forms\\assignment1\\assignment1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7F1A2F39-529F-4550-A576-653D460E3B57}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F1A2F39-529F-4550-A576-653D460E3B57}|Assignment1\\Assignment1.csproj|c:\\dot net training\\assingnments\\asp.net web forms\\assignment1\\assignment1\\validator.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F1A2F39-529F-4550-A576-653D460E3B57}|Assignment1\\Assignment1.csproj|C:\\Dot Net Training\\Assingnments\\ASP.NET Web forms\\Assignment1\\assignment1\\product.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1A2F39-529F-4550-A576-653D460E3B57}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\product.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1A2F39-529F-4550-A576-653D460E3B57}|Assignment1\\Assignment1.csproj|C:\\Dot Net Training\\Assingnments\\ASP.NET Web forms\\Assignment1\\assignment1\\validator.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F1A2F39-529F-4550-A576-653D460E3B57}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\validator.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1A2F39-529F-4550-A576-653D460E3B57}|Assignment1\\Assignment1.csproj|c:\\dot net training\\assingnments\\asp.net web forms\\assignment1\\assignment1\\validator.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1A2F39-529F-4550-A576-653D460E3B57}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\validator.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F1A2F39-529F-4550-A576-653D460E3B57}|Assignment1\\Assignment1.csproj|c:\\dot net training\\assingnments\\asp.net web forms\\assignment1\\assignment1\\product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{7F1A2F39-529F-4550-A576-653D460E3B57}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F1A2F39-529F-4550-A576-653D460E3B57}|Assignment1\\Assignment1.csproj|c:\\dot net training\\assingnments\\asp.net web forms\\assignment1\\assignment1\\product.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F1A2F39-529F-4550-A576-653D460E3B57}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\product.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F1A2F39-529F-4550-A576-653D460E3B57}|Assignment1\\Assignment1.csproj|C:\\Dot Net Training\\Assingnments\\ASP.NET Web forms\\Assignment1\\assignment1\\validator.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7F1A2F39-529F-4550-A576-653D460E3B57}|Assignment1\\Assignment1.csproj|solutionrelative:assignment1\\validator.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 138,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assingnments\\ASP.NET Web forms\\Assignment1\\Assignment1\\Web.config",
+              "RelativeDocumentMoniker": "Assignment1\\Web.config",
+              "ToolTip": "C:\\Dot Net Training\\Assingnments\\ASP.NET Web forms\\Assignment1\\Assignment1\\Web.config*",
+              "RelativeToolTip": "Assignment1\\Web.config*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-26T04:14:37.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Validator.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assingnments\\ASP.NET Web forms\\Assignment1\\Assignment1\\Validator.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Assignment1\\Validator.aspx.designer.cs",
+              "ToolTip": "C:\\Dot Net Training\\Assingnments\\ASP.NET Web forms\\Assignment1\\Assignment1\\Validator.aspx.designer.cs",
+              "RelativeToolTip": "Assignment1\\Validator.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T04:13:09.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Validator.aspx.cs",
               "DocumentMoniker": "C:\\Dot Net Training\\Assingnments\\ASP.NET Web forms\\Assignment1\\Assignment1\\Validator.aspx.cs",
               "RelativeDocumentMoniker": "Assignment1\\Validator.aspx.cs",
               "ToolTip": "C:\\Dot Net Training\\Assingnments\\ASP.NET Web forms\\Assignment1\\Assignment1\\Validator.aspx.cs",
               "RelativeToolTip": "Assignment1\\Validator.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-22T07:17:56.868Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Product.aspx.cs",
               "DocumentMoniker": "C:\\Dot Net Training\\Assingnments\\ASP.NET Web forms\\Assignment1\\Assignment1\\Product.aspx.cs",
               "RelativeDocumentMoniker": "Assignment1\\Product.aspx.cs",
@@ -56,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Product.aspx",
               "DocumentMoniker": "C:\\Dot Net Training\\Assingnments\\ASP.NET Web forms\\Assignment1\\Assignment1\\Product.aspx",
               "RelativeDocumentMoniker": "Assignment1\\Product.aspx",
@@ -69,16 +103,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Validator.aspx",
               "DocumentMoniker": "C:\\Dot Net Training\\Assingnments\\ASP.NET Web forms\\Assignment1\\Assignment1\\Validator.aspx",
               "RelativeDocumentMoniker": "Assignment1\\Validator.aspx",
               "ToolTip": "C:\\Dot Net Training\\Assingnments\\ASP.NET Web forms\\Assignment1\\Assignment1\\Validator.aspx",
               "RelativeToolTip": "Assignment1\\Validator.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-05-22T07:01:45.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T07:01:45.878Z"
             }
           ]
         }
