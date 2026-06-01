@@ -1,0 +1,16 @@
+C:\.net Practice\Mini Project\Miniproject\Miniproject\bin\Debug\Miniproject.exe.config
+C:\.net Practice\Mini Project\Miniproject\Miniproject\bin\Debug\Miniproject.exe
+C:\.net Practice\Mini Project\Miniproject\Miniproject\bin\Debug\Miniproject.pdb
+C:\.net Practice\Mini Project\Miniproject\Miniproject\obj\Debug\Miniproject.csproj.AssemblyReference.cache
+C:\.net Practice\Mini Project\Miniproject\Miniproject\obj\Debug\Miniproject.csproj.CoreCompileInputs.cache
+C:\.net Practice\Mini Project\Miniproject\Miniproject\obj\Debug\Miniproject.exe
+C:\.net Practice\Mini Project\Miniproject\Miniproject\obj\Debug\Miniproject.pdb
+C:\.net Practice\Mini Project\Miniproject\Miniproject\obj\Debug\Miniproject.exe.config
+C:\.net Practice\Miniproject\Miniproject\obj\Debug\Miniproject.csproj.AssemblyReference.cache
+C:\.net Practice\Miniproject\Miniproject\obj\Debug\Miniproject.exe.config
+C:\.net Practice\Miniproject\Miniproject\obj\Debug\Miniproject.csproj.CoreCompileInputs.cache
+C:\.net Practice\Miniproject\Miniproject\obj\Debug\Miniproject.exe
+C:\.net Practice\Miniproject\Miniproject\obj\Debug\Miniproject.pdb
+C:\.net Practice\Miniproject\Miniproject\bin\Debug\Miniproject.exe.config
+C:\.net Practice\Miniproject\Miniproject\bin\Debug\Miniproject.exe
+C:\.net Practice\Miniproject\Miniproject\bin\Debug\Miniproject.pdb
