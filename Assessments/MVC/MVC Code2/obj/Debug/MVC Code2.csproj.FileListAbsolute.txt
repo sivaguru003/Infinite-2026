@@ -1,0 +1,2 @@
+C:\Dot Net Training\Assessments\M\MVC Code2\obj\Debug\MVC Code2.csproj.AssemblyReference.cache
+C:\Dot Net Training\Assessments\M\MVC Code2\obj\Debug\MVC Code2.csproj.CoreCompileInputs.cache

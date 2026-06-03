@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dot Net Training\\Assessments\\MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0789E0-4486-4814-85A5-68AA505DF03A}|MVC\\MVC.csproj|c:\\dot net training\\assessments\\mvc\\mvc\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0789E0-4486-4814-85A5-68AA505DF03A}|MVC\\MVC.csproj|solutionrelative:mvc\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0789E0-4486-4814-85A5-68AA505DF03A}|MVC\\MVCApplication.csproj|c:\\dot net training\\assessments\\mvc\\mvc\\views\\code\\gremanycustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0789E0-4486-4814-85A5-68AA505DF03A}|MVC\\MVCApplication.csproj|solutionrelative:mvc\\views\\code\\gremanycustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0789E0-4486-4814-85A5-68AA505DF03A}|MVC\\MVC.csproj|c:\\dot net training\\assessments\\mvc\\mvc\\global.asax||{4D30FDB3-AB3E-4810-B6F2-64627BCCA384}",
+      "RelativeMoniker": "D:0:0:{9E0789E0-4486-4814-85A5-68AA505DF03A}|MVC\\MVC.csproj|solutionrelative:mvc\\global.asax||{4D30FDB3-AB3E-4810-B6F2-64627BCCA384}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0789E0-4486-4814-85A5-68AA505DF03A}|MVC\\MVC.csproj|c:\\dot net training\\assessments\\mvc\\mvc\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0789E0-4486-4814-85A5-68AA505DF03A}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0789E0-4486-4814-85A5-68AA505DF03A}|MVC\\MVC.csproj|c:\\dot net training\\assessments\\mvc\\mvc\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E0789E0-4486-4814-85A5-68AA505DF03A}|MVC\\MVC.csproj|solutionrelative:mvc\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E0789E0-4486-4814-85A5-68AA505DF03A}|MVC\\MVCApplication.csproj|c:\\dot net training\\assessments\\mvc\\mvc\\views\\code\\customerbyorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E0789E0-4486-4814-85A5-68AA505DF03A}|MVC\\MVCApplication.csproj|solutionrelative:mvc\\views\\code\\customerbyorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 164,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 180,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Global.asax",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\MVC\\MVC\\Global.asax",
+              "RelativeDocumentMoniker": "MVC\\Global.asax",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\MVC\\MVC\\Global.asax",
+              "RelativeToolTip": "MVC\\Global.asax",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000179|",
+              "WhenOpened": "2026-06-03T05:46:11.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\MVC\\MVC\\Global.asax.cs",
+              "RelativeDocumentMoniker": "MVC\\Global.asax.cs",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\MVC\\MVC\\Global.asax.cs",
+              "RelativeToolTip": "MVC\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T05:45:55.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GremanyCustomers.cshtml",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\MVC\\MVC\\Views\\Code\\GremanyCustomers.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Code\\GremanyCustomers.cshtml",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\MVC\\MVC\\Views\\Code\\GremanyCustomers.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Code\\GremanyCustomers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T05:21:14.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\MVC\\MVC\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "MVC\\Models\\Customer.cs",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\MVC\\MVC\\Models\\Customer.cs",
+              "RelativeToolTip": "MVC\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T05:30:19.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerByOrder.cshtml",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\MVC\\MVC\\Views\\Code\\CustomerByOrder.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Code\\CustomerByOrder.cshtml",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\MVC\\MVC\\Views\\Code\\CustomerByOrder.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Code\\CustomerByOrder.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T05:23:20.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CodeController.cs",
+              "DocumentMoniker": "C:\\Dot Net Training\\Assessments\\MVC\\MVC\\Controllers\\CodeController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\CodeController.cs",
+              "ToolTip": "C:\\Dot Net Training\\Assessments\\MVC\\MVC\\Controllers\\CodeController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\CodeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T05:17:23.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

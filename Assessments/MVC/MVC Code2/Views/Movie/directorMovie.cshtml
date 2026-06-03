@@ -1,0 +1,20 @@
+﻿@model IEnumerable<MoviesMVC.Models.Movie>
+
+<h2>Movies By Director</h2>
+
+<table border="1">
+
+    <tr>
+        <th>Movie Name</th>
+        <th>Release Date</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.MovieName</td>
+            <td>@item.DateOfRelease.ToShortDateString()</td>
+        </tr>
+    }
+
+</table>
