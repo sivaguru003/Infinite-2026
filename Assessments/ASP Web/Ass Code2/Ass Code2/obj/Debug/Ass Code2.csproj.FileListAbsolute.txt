@@ -1,0 +1,2 @@
+C:\Dot Net Training\Assessments\ASP Web\Ass Code2\Ass Code2\obj\Debug\Ass Code2.csproj.AssemblyReference.cache
+C:\Dot Net Training\Assessments\ASP Web\Ass Code2\Ass Code2\obj\Debug\Ass Code2.csproj.CoreCompileInputs.cache

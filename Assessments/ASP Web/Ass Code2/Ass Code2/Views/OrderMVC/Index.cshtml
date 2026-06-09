@@ -1,0 +1,22 @@
+﻿@model IEnumerable<MVCClient.Models.OrderModel>
+
+<h2>Orders Of Buchanan Steven</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Order Id</th>
+        <th>Customer Id</th>
+        <th>Employee Id</th>
+        <th>Order Date</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.OrderID</td>
+            <td>@item.CustomerID</td>
+            <td>@item.EmployeeID</td>
+            <td>@item.OrderDate</td>
+        </tr>
+    }
+</table>
